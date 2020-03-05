@@ -1,0 +1,593 @@
+{
+  "batchcomplete": true,
+  "limits": { "images": 500 },
+  "query": {
+    "pages": [
+      {
+        "pageid": 10310484,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Wikipedia-logo-v2-zh.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10310484"
+          }
+        ]
+      },
+      {
+        "pageid": 10310650,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Wikipedia-logo-v2-zh.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10310650"
+          }
+        ]
+      },
+      {
+        "pageid": 10311918,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vls.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Wikipedia-logo-v2-vls.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vls.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10311918"
+          }
+        ]
+      },
+      {
+        "pageid": 10313342,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-uk.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Wikipedia-logo-v2-uk.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-uk.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10313342"
+          }
+        ]
+      },
+      {
+        "pageid": 10313344,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-uk.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Wikipedia-logo-v2-uk.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-uk.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10313344"
+          }
+        ]
+      },
+      {
+        "pageid": 10313830,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vi.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wikipedia-logo-v2-vi.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vi.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10313830"
+          }
+        ]
+      },
+      {
+        "pageid": 10337301,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10337301"
+          }
+        ]
+      },
+      {
+        "pageid": 10405355,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-hans.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wikipedia-logo-v2-zh-hans.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-hans.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10405355"
+          }
+        ]
+      },
+      {
+        "pageid": 10439874,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-war.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Wikipedia-logo-v2-war.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-war.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10439874"
+          }
+        ]
+      },
+      {
+        "pageid": 10439904,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-war.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Wikipedia-logo-v2-war.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-war.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10439904"
+          }
+        ]
+      },
+      {
+        "pageid": 10481263,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wa.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Wikipedia-logo-v2-wa.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wa.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10481263"
+          }
+        ]
+      },
+      {
+        "pageid": 10481275,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wa.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wikipedia-logo-v2-wa.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wa.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10481275"
+          }
+        ]
+      },
+      {
+        "pageid": 10622620,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Wikipedia-logo-v2-vo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10622620"
+          }
+        ]
+      },
+      {
+        "pageid": 10622960,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vec.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wikipedia-logo-v2-vec.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vec.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10622960"
+          }
+        ]
+      },
+      {
+        "pageid": 10631439,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-min-nan.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikipedia-logo-v2-zh-min-nan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-min-nan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10631439"
+          }
+        ]
+      },
+      {
+        "pageid": 10631603,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zea.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wikipedia-logo-v2-zea.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zea.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10631603"
+          }
+        ]
+      },
+      {
+        "pageid": 10640132,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Wikipedia-logo-v2-wo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10640132"
+          }
+        ]
+      },
+      {
+        "pageid": 10672039,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-yo.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wikipedia-logo-v2-yo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-yo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10672039"
+          }
+        ]
+      },
+      {
+        "pageid": 10704000,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-yue.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wikipedia-logo-v2-zh-yue.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-yue.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10704000"
+          }
+        ]
+      },
+      {
+        "pageid": 10704007,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-yue.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Wikipedia-logo-v2-zh-yue.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-yue.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10704007"
+          }
+        ]
+      },
+      {
+        "pageid": 10706116,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vec.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Wikipedia-logo-v2-vec.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vec.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10706116"
+          }
+        ]
+      },
+      {
+        "pageid": 10767838,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-yo.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wikipedia-logo-v2-yo.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-yo.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10767838"
+          }
+        ]
+      },
+      {
+        "pageid": 10908925,
+        "ns": 6,
+        "title": "File:Wikipedya-logo-v2-kw.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wikipedya-logo-v2-kw.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedya-logo-v2-kw.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10908925"
+          }
+        ]
+      },
+      {
+        "pageid": 11436947,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vo.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Wikipedia-logo-v2-vo.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vo.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11436947"
+          }
+        ]
+      },
+      {
+        "pageid": 12637937,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-zh-classical-new.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Wikipedia-logo-zh-classical-new.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-zh-classical-new.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12637937"
+          }
+        ]
+      },
+      {
+        "pageid": 14538251,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-yi.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Wikipedia-logo-v2-yi.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-yi.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14538251"
+          }
+        ]
+      },
+      {
+        "pageid": 15825277,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-min-nan.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Wikipedia-logo-v2-zh-min-nan.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-min-nan.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15825277"
+          }
+        ]
+      },
+      {
+        "pageid": 17457139,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-ur.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Wikipedia-logo-v2-ur.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-ur.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17457139"
+          }
+        ]
+      },
+      {
+        "pageid": 17458622,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-ur.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wikipedia-logo-v2-ur.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-ur.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17458622"
+          }
+        ]
+      },
+      {
+        "pageid": 19540905,
+        "ns": 6,
+        "title": "File:Լոգո Դեժավյու Սերիֆ.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%D4%BC%D5%B8%D5%A3%D5%B8_%D4%B4%D5%A5%D5%AA%D5%A1%D5%BE%D5%B5%D5%B8%D6%82_%D5%8D%D5%A5%D6%80%D5%AB%D6%86.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D4%BC%D5%B8%D5%A3%D5%B8_%D4%B4%D5%A5%D5%AA%D5%A1%D5%BE%D5%B5%D5%B8%D6%82_%D5%8D%D5%A5%D6%80%D5%AB%D6%86.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19540905"
+          }
+        ]
+      },
+      {
+        "pageid": 19947425,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-uz.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wikipedia-logo-v2-uz.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-uz.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19947425"
+          }
+        ]
+      },
+      {
+        "pageid": 21389134,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vls.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Wikipedia-logo-v2-vls.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vls.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21389134"
+          }
+        ]
+      },
+      {
+        "pageid": 21389161,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wo.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wikipedia-logo-v2-wo.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wo.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21389161"
+          }
+        ]
+      },
+      {
+        "pageid": 24636256,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wuu.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Wikipedia-logo-v2-wuu.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wuu.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636256"
+          }
+        ]
+      },
+      {
+        "pageid": 24636312,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zea.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Wikipedia-logo-v2-zea.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zea.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636312"
+          }
+        ]
+      },
+      {
+        "pageid": 24636330,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-xal.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Wikipedia-logo-v2-xal.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-xal.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636330"
+          }
+        ]
+      },
+      {
+        "pageid": 24636595,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wuu.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wikipedia-logo-v2-wuu.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wuu.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636595"
+          }
+        ]
+      },
+      {
+        "pageid": 24636608,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-xal.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wikipedia-logo-v2-xal.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-xal.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636608"
+          }
+        ]
+      },
+      {
+        "pageid": 24636620,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-zh-classical.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo-v2-zh-classical.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-zh-classical.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24636620"
+          }
+        ]
+      },
+      {
+        "pageid": 25194555,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-uz.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wikipedia-logo-v2-uz.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-uz.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25194555"
+          }
+        ]
+      },
+      {
+        "pageid": 25539904,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-za.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Wikipedia-logo-v2-za.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-za.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25539904"
+          }
+        ]
+      },
+      {
+        "pageid": 25539946,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-za.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wikipedia-logo-v2-za.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-za.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25539946"
+          }
+        ]
+      },
+      {
+        "pageid": 26164094,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-yi.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Wikipedia-logo-v2-yi.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-yi.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26164094"
+          }
+        ]
+      },
+      {
+        "pageid": 28351670,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-vi.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wikipedia-logo-v2-vi.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-vi.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28351670"
+          }
+        ]
+      },
+      {
+        "pageid": 31451419,
+        "ns": 6,
+        "title": "File:Wikipedia-logo-v2-wordmark.svg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Wikipedia-logo-v2-wordmark.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2-wordmark.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=31451419"
+          }
+        ]
+      }
+    ]
+  }
+}

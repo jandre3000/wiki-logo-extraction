@@ -1,0 +1,21 @@
+{
+  "name": "los-logos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "downloadSVGs": "node ./main.js",
+    "splitSVGs": "node ./splitSVGs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.0.16",
+    "axios": "^0.19.2",
+    "axios-cache-adapter": "^2.5.0",
+    "puppeteer": "^2.1.1",
+    "svg.js": "2.7.1",
+    "svgdom": "0.0.21"
+  }
+}
