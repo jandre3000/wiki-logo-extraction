@@ -4,18 +4,15 @@
   "description": "",
   "main": "main.js",
   "scripts": {
+    "start": "node ./main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "downloadSVGs": "node ./main.js",
-    "splitSVGs": "node ./splitSVGs.js"
+    "splitSVGs": "node ./main.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@svgdotjs/svg.js": "^3.0.16",
     "axios": "^0.19.2",
-    "axios-cache-adapter": "^2.5.0",
-    "puppeteer": "^2.1.1",
-    "svg.js": "2.7.1",
-    "svgdom": "0.0.21"
+    "jsdom": "^16.2.1"
   }
 }
