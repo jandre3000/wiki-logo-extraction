@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1e3" height="900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata><!--
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description about="http://commons.wikimedia.org/image/Wikiversity-logo.svg">
+     dc:title="Wikiversity logo (trademark)"
+     dc:publisher="Wikimedia Foundation"
+     dc:copyright="Copyright (c)2006 Wikimedia Foundation"
+     dc:date="2007-09-20"
+     dc:format="image/svg+xml"
+     dc:language="en">
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>Wikiversity</rdf:li>
+      <rdf:li>logo</rdf:li>
+      <rdf:li>trademark</rdf:li>
+      <rdf:li>Copyright (C) 2006 Wikimedia Foundation</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+   </rdf:Description>
+  </rdf:RDF>
+ -->
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="a" x2="0" y1="35" y2="322" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#069" offset="0"/>
+   <stop stop-color="#0080CE" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" y1="339" y2="757" xlink:href="#a"/>
+ </defs>
+ <path d="m329 88c43-35 87-53 155-53-53 21-89 54-116 79-16-8-27-15-39-26zm342 0c-43-35-87-53-155-53 53 21 89 54 116 79 16-8 27-15 39-26zm-180 56c-36 0-68-8-105-23 37-34 65-53 105-71zm18 0c36 0 68-8 105-23-37-34-65-53-105-71zm-152-16c-16-8-30-17-43-28-25 23-46 45-61 73 17 15 31 25 52 35 14-29 29-54 52-80zm286 0c16-8 30-17 43-28 25 23 46 45 61 73-17 15-31 25-52 35-14-29-29-54-52-80zm-152 34c-39 0-83-11-118-26-24 26-41 53-53 80 59 29 113 42 171 42zm18 0c39 0 83-11 118-26 24 26 41 53 53 80-59 29-113 42-171 42zm-266 27c17 15 34 26 55 38-10 22-16 50-20 77-21-11-42-24-61-38 5-29 14-55 26-77zm514 0c-17 15-34 26-55 38 10 22 16 50 20 77 21-11 42-24 61-38-5-29-14-55-26-77zm-266 133h-166c-11-4-20-6-31-11 4-31 10-52 19-77 55 29 113 42 178 42zm18 0h166c11-4 20-6 31-11-4-31-10-52-19-77-55 29-113 42-178 42zm-299 0c0-13 1-24 3-37 23 16 34 22 63 37zm580 0c0-13-1-24-3-37-23 16-34 22-63 37z" fill="url(#a)"/>
+ <g fill="url(#b)">
+  <rect x="32" y="339" width="936" height="31"/>
+  <rect x="64" y="387" width="125" height="322"/>
+  <rect x="313" y="387" width="125" height="322"/>
+  <rect x="562" y="387" width="125" height="322"/>
+  <rect x="811" y="387" width="125" height="322"/>
+  <rect x="32" y="726" width="936" height="31"/>
+ </g>
+ <path d="m927.51 773.8 40.488 91.229h-24.424l-7.5099-18.024h-40.815l-6.7916 18.024h-24.097l36.766-91.229zm1.8285 57.271-14.693-35.46-13.387 35.46zm-53.157-57.271v16.718h-33.044v74.512h-22.726v-74.512h-33.044v-16.718zm-103.51 0v91.229h-22.726v-91.229zm-38.137 0-49.762 74.512h49.762v16.718h-88.552l50.153-74.512h-46.692v-16.718zm-169.53 0h40.75q13.257 0 21.55 7.7059 8.2936 7.6406 8.2936 18.546 0 15.085-15.673 22.334 6.9222 3.0693 13.061 16.783 6.2039 13.714 11.951 25.86h-25.011q-2.2203-4.506-7.7712-17.175-5.4855-12.669-9.4691-16.261-3.9182-3.5917-8.4242-3.5917h-6.5304v37.027h-22.726zm22.726 16.718v20.767h12.016q5.7467 0 9.0772-2.6775 3.3958-2.7428 3.3958-7.7712 0-10.318-12.995-10.318zm-40.097 57.794v16.718h-67.263v-91.229h66.349v16.718h-43.623v19.134h41.599v16.718h-41.599v21.942zm-77.646-74.512-42.186 92.405h-9.8609l-44.145-92.405h24.75l24.097 52.047 22.856-52.047zm-107.16 0v91.229h-22.726v-91.229zm-43.035 0-29.713 42.839 40.292 48.39h-28.472l-36.113-42.774v42.774h-22.726v-91.229h22.726v41.076l28.995-41.076zm-97.76 0v91.229h-22.726v-91.229zm-111.93 32.913-28.211 59.492h-9.7956l-40.097-92.405h24.097l21.485 50.415 23.444-50.415h18.285l23.444 50.415 21.354-50.415h24.097l-39.966 92.405h-9.7956z" fill="#696969"/>
+</svg>

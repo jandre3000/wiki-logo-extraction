@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="915.781" height="123.094" version="1">
+ <defs>
+  <linearGradient id="Wikiversity-logo-fr_svg__a" x1="0" x2="0" y1="35" y2="322" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#069"/>
+   <stop offset="1" stop-color="#0080ce"/>
+  </linearGradient>
+  <linearGradient id="Wikiversity-logo-fr_svg__b">
+   <stop offset="0" stop-color="#069"/>
+   <stop offset="1" stop-color="#0080ce"/>
+  </linearGradient>
+  <linearGradient id="Wikiversity-logo-fr_svg__c">
+   <stop offset="0" stop-color="#069"/>
+   <stop offset="1" stop-color="#0080ce"/>
+  </linearGradient>
+ </defs>
+ <path fill="#696969" d="M878.781 0l-10 19.906h10L901 0zM655.97 27.719c-9.965.241-17.344 2.337-22.969 7.093-6 5.074-9 12.162-9 18.25 0 7.103 2 13.192 5 17.25 6 8.118 20 12.19 28 14.22 8 2.029 13 6.067 13 12.156-1 6.088-5 9.156-14 9.156s-20-6.1-31-12.188v20.281c9 6.089 22 9.157 33 9.157s22-4.083 27-9.156c5-5.074 8-11.148 8-18.25 0-7.103-2-12.192-5-16.25-6-8.118-16-13.175-28-16.22-8-2.029-13-4.067-13-10.156 0-5.073 5-8.093 14-8.093s17 2.005 28 8.093v-18.25c-11-6.088-21-7.093-31-7.093-.688 0-1.367-.016-2.031 0zM0 28.719l40 94.375h10l28-60.906 29 60.906h10l40-94.375h-24l-22 51.75-23-51.75H69l-23 51.75-22-51.75zm169 0v93.344h23V28.719zm43 0v93.344h23V78.436l36 43.626h29l-41-49.72 30-43.624h-25l-29 41.593V28.72zm98 0v93.344h23V28.719zm34 0l44 94.375h10l43-94.375h-25l-23 52.75-24-52.75zm107 0v93.344h68v-17.25h-45V82.5h42V65.25h-42V45.969h44v-17.25zm85 0v93.344h23V83.5h7c3 0 6 2.033 8 4.063 3 2.029 6 8.132 10 16.25 4 9.132 6 15.205 8 18.25h25c-4-8.118-8-17.243-12-26.376-4-9.132-9-15.22-13-17.25 10-5.073 15-13.196 15-23.343 0-7.103-2-13.177-8-18.25-5-6.088-13-8.125-22-8.125zm172 0v93.344h23V28.719zm39 0v17.25h33v76.094h23V45.969h34v-17.25zm101.063.187v93.063h67.718v-17.063h-44.843V82.531h41.906V65.5h-41.907V45.969h43.907V28.906zM559 45.97h12c9 0 13 3.053 13 10.156 0 4.059-1 6.064-3 8.094-3 2.03-6 3.062-10 3.062h-12z"/>
+ <g transform="translate(-381.524 -593.965)">
+  <rect width="996.52" height="154.902" x="351.283" y="-331.831" fill="#f9f9f9" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.338" rx="4.991" ry="3.476"/>
+  <path fill="#069" fill-rule="evenodd" d="M385.97-269.843c.006 6.539-5.31 11.843-11.87 11.843s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>
+  <path fill="#0080ce" fill-rule="evenodd" d="M385.97-235.66c.006 6.538-5.31 11.842-11.87 11.842s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>
+  <path fill="#696969" fill-rule="evenodd" d="M385.637-200.571c.006 6.539-5.31 11.843-11.87 11.843s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>
+  <g font-family="Arial" font-size="26.491" font-weight="400">
+   <text x="396.13" y="-322.977" transform="matrix(1.00179 0 0 .99821 -1.487 62.436)" style="line-height:0%;text-align:start">
+    <tspan x="396.13" y="-322.977">Darkest blue - #006699</tspan>
+   </text>
+   <text x="396.13" y="-322.977" transform="matrix(1.00179 0 0 .99821 -1.487 62.436)" style="line-height:0%;text-align:start">
+    <tspan x="396.13" y="-288.539">Brightest blue - #0080CE </tspan>
+   </text>
+   <text x="396.13" y="-322.977" transform="matrix(1.00179 0 0 .99821 -1.487 62.436)" style="line-height:0%;text-align:start">
+    <tspan x="396.13" y="-254.1">Font - #484848</tspan>
+   </text>
+  </g>
+  <text x="363.469" y="-293.875" font-family="Bitstream Vera Sans" font-size="12" font-weight="400" style="line-height:0%">
+   <tspan x="363.469" y="-293.875" font-family="Arial" font-size="36">Wikiversity Logo</tspan>
+  </text>
+ </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="770.502" height="104.2" version="1.0">
+ <defs>
+  <linearGradient id="WikiNews-Logo-nl_svg__a">
+   <stop offset="0" stop-color="#fff" stop-opacity=".217"/>
+   <stop offset=".5" stop-color="#fff" stop-opacity=".571"/>
+   <stop offset="1" stop-color="#fff" stop-opacity=".217"/>
+  </linearGradient>
+  <linearGradient id="WikiNews-Logo-nl_svg__b">
+   <stop offset="0" stop-color="#b0ddff"/>
+   <stop offset=".5" stop-color="#cae8ff"/>
+   <stop offset="1" stop-color="#b0ddff"/>
+  </linearGradient>
+  <linearGradient id="WikiNews-Logo-nl_svg__c">
+   <stop offset="0" stop-color="#7dc1f3"/>
+   <stop offset=".5" stop-color="#adf"/>
+   <stop offset="1" stop-color="#7dc1f3"/>
+  </linearGradient>
+  <linearGradient id="WikiNews-Logo-nl_svg__d">
+   <stop offset="0" stop-color="#4b9fdb"/>
+   <stop offset=".5" stop-color="#7ec9fd"/>
+   <stop offset="1" stop-color="#4b9fdb"/>
+  </linearGradient>
+  <linearGradient id="WikiNews-Logo-nl_svg__e">
+   <stop offset="0" stop-color="#eee"/>
+   <stop offset="1" stop-color="#d5e1fd"/>
+  </linearGradient>
+  <linearGradient id="WikiNews-Logo-nl_svg__f">
+   <stop offset="0" stop-color="#35a5ec"/>
+   <stop offset="1" stop-color="#2681da"/>
+  </linearGradient>
+  <radialGradient id="WikiNews-Logo-nl_svg__g" cx="373.082" cy="123.365" r="184.271" fx="373.082" fy="123.365" gradientTransform="matrix(1 0 0 .8632 0 16.876)" gradientUnits="userSpaceOnUse" xlink:href="#WikiNews-Logo-nl_svg__f"/>
+ </defs>
+ <path fill="#595959" style="line-height:125%;text-align:start" d="M26.199 104.2L0 0h20.18l17.234 83.872L56.52 0h19.723l16.95 82.396L112.025 0h19.347l-28.088 104.2H82.751L65.2 24.455 46.308 104.2zm115.098 0L141.069 0h18.927l.076 104.2zm28.471 0V0h18.582v48.176L224.208 0h23.063l-36.817 45.852L250.28 104.2h-22.504l-29.859-47.603-9.566 12.362V104.2zm87.237 0V0h18.582v104.2z" font-family="Bitstream Vera Sans" font-size="123" font-weight="400"/>
+ <path fill="#8c8c8c" style="line-height:125%;-inkscape-font-specification:'Arial Bold';text-align:center" d="M476.21 0h19.67l-.298 54.322c-.049 9 .244 14.928.731 17.595.842 4.285 2.836 7.737 5.981 10.356 3.19 2.571 7.532 3.857 13.025 3.857 5.582 0 9.791-1.214 12.626-3.643 2.836-2.476 4.541-5.5 5.117-9.07.576-3.572.864-9.596.864-17.88L534.224 0h19.67l-.297 52.608c-.072 12.57-.532 21.547-1.595 26.737-1.064 5.19-3.035 9.57-5.915 13.142-2.835 3.57-6.645 6.428-11.43 8.57-4.784 2.095-11.031 3.143-18.74 3.143-9.303 0-16.37-1.143-21.198-3.428-4.785-2.333-8.573-5.333-11.364-9-2.791-3.714-4.63-7.594-5.516-11.642-1.284-6-1.927-14.952-1.927-26.665zM377.47 104.2V0h18.63v104.2zM740.219 0c-10.363 0-19.027 2.131-25.046 7.471-13.374 11.865-14.29 29.262-2.787 41.765 7.617 8.277 19.154 7.47 29.242 11.76 4.99 2.122 9.61 6.745 9.676 12.431.063 5.505-1.688 9.538-5.052 12.095-3.365 2.557-8.14 3.867-14.33 3.828-8.737-.057-17.416-2.141-24.894-6.829l-3.92 14.943c5.115 3.017 6.71 3.435 12.095 4.746 5.385 1.31 11.123 1.99 17.178 1.99 5.385 0 10.262-.596 14.636-1.776 4.374-1.18 9.49-3.047 12.585-5.603 3.095-2.557 6.187-5 7.869-9.064 1.682-4.063 3.031-8.131 3.031-13.9 0-5.77-1.667-12.322-5.45-17.76-8.375-12.041-32.697-11.721-38.826-20.364-1.44-2.032-2.235-5.417-2.235-7.777 0-3.801 1.444-6.602 4.838-8.91 3.182-2.165 6.832-3.032 11.544-3.032 5.651 0 7.383-.109 11.084 1.072 3.7 1.18 7.567 1.982 10.931 4.47l4.317-15.463c-3.635-2.752-5.395-3.323-10.44-4.44C751.217.537 745.874 0 740.22 0zM563.592 0l26.118 104.2h19.78l20.118-81.617 16.67 81.617h20.593L694.765 0H675.26l-18.004 83.792L640.2 0h-19.995L601.13 84.128 584.075 0zM285.283 0v104.2h17.576V24.112l42.775 80.088h22.138V0h-16.106v76.165L306.717 0zm120.513 0v104.2h61.973V88.23H424.32V57.672h40.05V42.118h-40.05v-27.62h42.194V0z" font-family="Arial" font-size="144" font-weight="700" text-anchor="middle"/>
+</svg>

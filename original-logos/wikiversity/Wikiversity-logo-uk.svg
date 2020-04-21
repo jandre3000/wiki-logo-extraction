@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1000"
+   height="900"
+   id="svg3055"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Wikiversity-logo-uk.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="774"
+     id="namedview3059"
+     showgrid="false"
+     inkscape:zoom="0.60222222"
+     inkscape:cx="500"
+     inkscape:cy="450"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3055" />
+  <metadata
+     id="metadata3057">
+    <!--
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description about="http://commons.wikimedia.org/image/Wikiversity-logo.svg">
+     dc:title="Wikiversity logo (trademark)"
+     dc:publisher="Wikimedia Foundation"
+     dc:copyright="Copyright (c)2006 Wikimedia Foundation"
+     dc:date="2007-09-20"
+     dc:format="image/svg+xml"
+     dc:language="en">
+    <dc:subject>
+     <rdf:Bag>
+      <rdf:li>Wikiversity</rdf:li>
+      <rdf:li>logo</rdf:li>
+      <rdf:li>trademark</rdf:li>
+      <rdf:li>Copyright (C) 2006 Wikimedia Foundation</rdf:li>
+     </rdf:Bag>
+    </dc:subject>
+   </rdf:Description>
+  </rdf:RDF>
+ -->
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3059">
+    <linearGradient
+       y1="35"
+       x2="0"
+       y2="322"
+       id="a"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop3062"
+         style="stop-color:#006699;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3064"
+         style="stop-color:#0080ce;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y1="339"
+       y2="757"
+       id="b"
+       xlink:href="#a" />
+  </defs>
+  <text
+     x="20.61764"
+     y="861.65027"
+     transform="scale(0.99526549,1.004757)"
+     id="text3087"
+     xml:space="preserve"
+     style="font-size:127.47875214px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#696969;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+     sodipodi:linespacing="125%"><tspan
+       x="20.61764"
+       y="861.65027"
+       id="tspan3089"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">ВІКІВЕРСИТЕТ</tspan></text>
+  <path
+     d="M 329,88 C 372,53 416,35 484,35 431,56 395,89 368,114 352,106 341,99 329,88 z m 342,0 C 628,53 584,35 516,35 c 53,21 89,54 116,79 16,-8 27,-15 39,-26 z m -180,56 c -36,0 -68,-8 -105,-23 37,-34 65,-53 105,-71 z m 18,0 c 36,0 68,-8 105,-23 C 577,87 549,68 509,50 z M 357,128 c -16,-8 -30,-17 -43,-28 -25,23 -46,45 -61,73 17,15 31,25 52,35 14,-29 29,-54 52,-80 z m 286,0 c 16,-8 30,-17 43,-28 25,23 46,45 61,73 -17,15 -31,25 -52,35 -14,-29 -29,-54 -52,-80 z m -152,34 c -39,0 -83,-11 -118,-26 -24,26 -41,53 -53,80 59,29 113,42 171,42 z m 18,0 c 39,0 83,-11 118,-26 24,26 41,53 53,80 -59,29 -113,42 -171,42 z m -266,27 c 17,15 34,26 55,38 -10,22 -16,50 -20,77 -21,-11 -42,-24 -61,-38 5,-29 14,-55 26,-77 z m 514,0 c -17,15 -34,26 -55,38 10,22 16,50 20,77 21,-11 42,-24 61,-38 -5,-29 -14,-55 -26,-77 z M 491,322 H 325 c -11,-4 -20,-6 -31,-11 4,-31 10,-52 19,-77 55,29 113,42 178,42 z m 18,0 h 166 c 11,-4 20,-6 31,-11 -4,-31 -10,-52 -19,-77 -55,29 -113,42 -178,42 z m -299,0 c 0,-13 1,-24 3,-37 23,16 34,22 63,37 z m 580,0 c 0,-13 -1,-24 -3,-37 -23,16 -34,22 -63,37 z"
+     id="path3067"
+     style="fill:url(#a)" />
+  <g
+     id="g3069"
+     style="fill:url(#b)">
+    <rect
+       width="936"
+       height="31"
+       x="32"
+       y="339"
+       id="rect3071" />
+    <rect
+       width="125"
+       height="322"
+       x="64"
+       y="387"
+       id="rect3073" />
+    <rect
+       width="125"
+       height="322"
+       x="313"
+       y="387"
+       id="rect3075" />
+    <rect
+       width="125"
+       height="322"
+       x="562"
+       y="387"
+       id="rect3077" />
+    <rect
+       width="125"
+       height="322"
+       x="811"
+       y="387"
+       id="rect3079" />
+    <rect
+       width="936"
+       height="31"
+       x="32"
+       y="726"
+       id="rect3081" />
+  </g>
+</svg>

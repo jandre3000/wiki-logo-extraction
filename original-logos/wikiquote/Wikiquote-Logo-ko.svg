@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116"
+   height="128"
+   id="svg3316"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Wikiquote_Korean-Logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3318">
+    <clipPath
+       id="clip">
+      <path
+         d="M-25,0 l300,300 l300,-300 l-300,-300 z"
+         id="path4766" />
+    </clipPath>
+    <radialGradient
+       id="MyGradient"
+       gradientUnits="userSpaceOnUse"
+       r="59.1"
+       cx="0"
+       cy="0">
+      <stop
+         offset="0%"
+         stop-color="#00003b"
+         id="stop4761" />
+      <stop
+         offset="100%"
+         stop-color="#002f64"
+         id="stop4763" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient4124">
+      <stop
+         style="stop-color:#003366;stop-opacity:1;"
+         offset="0"
+         id="stop4126" />
+      <stop
+         id="stop4138"
+         offset="1"
+         style="stop-color:#4b91d6;stop-opacity:0.74509805;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4028">
+      <stop
+         style="stop-color:#003366;stop-opacity:1;"
+         offset="0"
+         id="stop4030" />
+      <stop
+         style="stop-color:#738aa2;stop-opacity:0;"
+         offset="1"
+         id="stop4032" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3324" />
+    <inkscape:perspective
+       id="perspective3990"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient4130"
+       x1="71.391853"
+       y1="59.206261"
+       x2="100.44152"
+       y2="59.287228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.938879,-10.28475)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient4132"
+       x1="60.131336"
+       y1="59.206257"
+       x2="95.064339"
+       y2="59.206261"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.938879,-10.28475)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4124"
+       id="linearGradient4134"
+       x1="83.550743"
+       y1="59.614761"
+       x2="83.550743"
+       y2="59.614761"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-12.938879,-10.28475)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.2626821"
+     inkscape:cx="65.729317"
+     inkscape:cy="61.125753"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1000"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8" />
+  <metadata
+     id="metadata3321">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:url(#linearGradient4132);fill-opacity:1;fill-rule:nonzero"
+       d="M 61.114452,83.716165 L 58.452972,80.938175 L 62.610682,76.567515 C 64.897422,74.163645 68.166912,69.245565 69.876202,65.638435 C 72.711362,59.655385 72.983382,58.202703 72.976742,49.080012 C 72.968272,37.448295 70.954242,31.690605 63.837642,22.953344 L 59.642282,17.80257 L 62.656752,14.941291 L 65.671232,12.080012 L 69.607062,16.580012 C 75.244992,23.026083 80.072972,33.214403 81.500652,41.678597 C 83.689722,54.65688 80.089652,67.925505 71.281692,79.342255 C 65.670162,86.615845 64.411352,87.157375 61.114452,83.716165 z"
+       id="path3895" />
+    <path
+       style="opacity:1;fill:url(#linearGradient4130);fill-opacity:1;fill-rule:nonzero"
+       d="M 49.250462,71.830015 L 46.642732,69.080015 L 49.036852,67.303325 C 52.923992,64.418675 56.564552,57.199781 57.190442,51.135508 C 57.874682,44.505849 55.775642,38.120689 51.198112,32.907162 L 48.157912,29.444574 L 51.167732,26.434759 L 54.177542,23.424944 L 58.335872,28.149053 C 62.692392,33.09832 66.484012,42.802805 66.484012,49.003846 C 66.484012,52.952041 63.862222,62.020275 61.713962,65.502495 C 59.401062,69.251575 54.271322,74.580015 52.974942,74.580015 C 52.360732,74.580015 50.684722,73.342515 49.250462,71.830015 z"
+       id="path3893" />
+    <path
+       style="fill:#001c4f;fill-opacity:1"
+       d="M 26.445902,63.330015 C 21.466122,60.818855 17.484012,54.487044 17.484012,49.080012 C 17.484012,43.67298 21.466122,37.341173 26.445902,34.830012 C 32.076012,31.990913 36.883522,31.997276 41.984012,34.850579 C 46.486842,37.369533 50.484012,44.061008 50.484012,49.080012 C 50.484012,54.487044 46.501912,60.818855 41.522122,63.330015 C 39.068082,64.567515 35.675932,65.580015 33.984012,65.580015 C 32.292092,65.580015 28.899942,64.567515 26.445902,63.330015 z"
+       id="path3314" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4342"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:GulimChe;-inkscape-font-specification:GulimChe"><flowRegion
+         id="flowRegion4344"><rect
+           id="rect4346"
+           width="140.75645"
+           height="35.189114"
+           x="-8.9145756"
+           y="186.43561" /></flowRegion><flowPara
+         id="flowPara4348"></flowPara></flowRoot>    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 19.114719,123.7745 C 20.105312,123.64345 21.622217,124.03055 22.30159,123.59311 C 22.30159,115.49633 22.30159,107.39955 22.30159,99.30277 C 21.310997,99.43381 19.794092,99.04672 19.114719,99.48415 C 19.114719,107.58094 19.114719,115.67772 19.114719,123.7745 z"
+       id="path4476" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 41.329524,123.7745 C 42.271496,123.55973 44.103666,124.22135 44.44141,123.41174 C 44.44141,115.37542 44.44141,107.33909 44.44141,99.30277 C 43.499437,99.51753 41.667268,98.85592 41.329524,99.66553 C 41.329524,107.70185 41.329524,115.73818 41.329524,123.7745 z"
+       id="path4474" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 63.780617,117.05635 C 64.755395,116.92204 66.267655,117.31686 66.929996,116.87496 C 66.929996,111.12816 66.929996,105.38135 66.929996,99.634536 C 65.955218,99.768836 64.442958,99.374016 63.780617,99.815916 C 63.780617,105.56273 63.780617,111.30954 63.780617,117.05635 z"
+       id="path4472" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 110.26666,112.77472 C 111.25726,112.64367 112.77416,113.03076 113.45354,112.59333 C 113.45354,108.27374 113.45354,103.95414 113.45354,99.634536 C 112.46294,99.765576 110.94604,99.378486 110.26666,99.815916 C 110.26666,104.13552 110.26666,108.45513 110.26666,112.77472 z"
+       id="path4470" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 78.427581,99.782603 C 76.215367,99.954713 73.664987,100.54197 72.410915,102.52303 C 71.426311,104.19925 72.060342,106.52269 73.740913,107.52323 C 75.103653,107.87377 74.463607,109.32839 74.603335,110.37165 C 74.469565,111.35641 72.530485,110.56387 71.655453,110.81888 C 70.795106,111.09294 68.76523,110.21564 68.791981,111.36303 C 68.805157,112.49006 68.393416,114.03541 70.08168,113.51335 C 77.350262,113.51335 84.618841,113.51335 91.887427,113.51335 C 91.613507,112.64302 92.558988,110.57222 91.150457,110.81888 C 89.458997,110.81888 87.767541,110.81888 86.076071,110.81888 C 86.320311,109.84305 85.539471,108.27702 86.557821,107.7469 C 88.083871,107.00775 89.041371,105.28919 88.661951,103.62851 C 88.304561,101.51283 86.049271,100.41832 84.109359,100.04499 C 82.250451,99.66018 80.315682,99.63706 78.427581,99.782603 z"
+       id="path4468" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 7.9794151,99.930253 C 5.6416501,100.23048 3.1398002,101.82518 2.9032942,104.31262 C 2.4534442,106.73788 4.2633082,109.1126 6.5997791,109.76512 C 8.5725571,110.38495 10.803618,110.37932 12.740976,109.63774 C 14.065304,109.0701 15.276293,108.13733 15.782323,106.76154 C 16.704056,104.55632 15.567886,101.81416 13.395849,100.78376 C 11.77529,99.836043 9.8096471,99.733833 7.9794151,99.930253 z"
+       id="path4466" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 52.870269,100.63112 C 49.839918,100.74475 47.140463,103.27478 46.930554,106.26154 C 46.597108,108.64436 47.643638,111.17875 49.720752,112.50042 C 52.665789,114.35881 57.126091,113.7754 59.131104,110.83008 C 60.531541,108.77312 60.584031,105.92634 59.406829,103.76359 C 58.12159,101.50067 55.443234,100.35125 52.870269,100.63112 z"
+       id="path4464" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 93.432469,103.3256 C 95.132143,103.3256 96.831803,103.3256 98.531481,103.3256 C 98.676901,105.66615 97.328933,107.79917 95.584143,109.28051 C 94.664353,110.15832 93.516179,110.74012 92.345189,111.22447 C 93.171679,111.86548 93.915853,113.11162 94.792203,113.38603 C 96.845703,112.24794 98.662401,110.63335 99.963608,108.69996 C 100.39868,107.46369 101.10883,109.72557 101.82705,109.96579 C 103.01167,111.04157 104.37233,111.90684 105.80504,112.62707 C 106.32285,111.83353 107.66841,110.83292 107.69543,110.16214 C 105.25816,109.33606 102.86671,107.70464 102.01829,105.20805 C 101.67497,104.12005 101.52216,102.84014 103.08303,103.3256 C 104.31531,103.3256 105.54757,103.3256 106.77985,103.3256 C 106.50476,102.46874 107.45425,100.40627 106.04288,100.66803 C 101.83942,100.66803 97.635941,100.66803 93.432469,100.66803 C 93.432469,101.5539 93.432469,102.43975 93.432469,103.3256 z"
+       id="path4462" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 25.657614,104.13806 C 28.51955,104.13806 31.381485,104.13806 34.243421,104.13806 C 34.073568,105.20453 33.762526,106.24178 33.343598,107.23855 C 30.319195,107.44771 27.294791,107.65688 24.270388,107.86603 C 24.850269,108.6411 24.682428,110.59659 25.832826,110.47099 C 27.836515,110.27936 29.840205,110.08774 31.843894,109.89612 C 30.552126,111.81672 28.607535,113.30019 26.689751,114.61187 C 25.837417,115.15174 25.182269,115.81552 24.232894,116.17092 C 25.083035,116.81935 25.858483,118.0443 26.755225,118.33304 C 31.564373,115.72751 35.253865,111.18965 36.830411,106.0205 C 37.23464,104.52498 37.551376,102.99454 37.617756,101.44359 C 33.618545,101.44359 29.619332,101.44359 25.620122,101.44359 C 25.632619,102.34175 25.645116,103.2399 25.657614,104.13806 z"
+       id="path4460" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 81.539467,102.1818 C 82.905464,102.31727 84.685581,102.47044 85.363711,103.84278 C 85.685771,104.82565 84.951481,105.79427 83.995587,106.05726 C 82.010476,106.67334 79.846027,106.62038 77.801661,106.32997 C 76.734452,106.09569 75.260121,105.61712 75.240709,104.32262 C 75.320566,102.93216 76.965422,102.48225 78.12764,102.29253 C 79.254016,102.1213 80.403694,102.13675 81.539467,102.1818 z"
+       id="path4458" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 9.4416271,102.36635 C 11.042348,102.2671 12.909791,103.21656 13.026276,104.94553 C 13.132602,106.65681 11.265268,107.72782 9.7072951,107.68148 C 8.0522511,107.80825 6.0393031,106.87136 5.9173221,105.06083 C 5.8370571,103.55686 7.2979411,102.53934 8.6917751,102.40327 C 8.9415321,102.3695 9.1896861,102.35725 9.4416271,102.36635 z"
+       id="path4456" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 53.545135,103.28869 C 55.513311,103.14862 57.094375,105.00642 57.048628,106.86511 C 57.259439,108.69567 55.958241,110.79321 53.957554,110.85537 C 52.046295,111.17065 50.189974,109.59677 50.079135,107.72188 C 49.842703,106.08913 50.498444,104.19615 52.157909,103.54707 C 52.605643,103.38166 53.059733,103.24098 53.545135,103.28869 z"
+       id="path4454" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 79.027463,108.97335 C 80.302547,109.03814 81.579227,108.9914 82.851708,108.89953 C 82.99742,110.16646 82.994003,111.28655 81.377768,110.81888 C 80.181913,110.81888 78.98606,110.81888 77.790207,110.81888 C 77.931935,109.6454 77.195172,108.41477 79.027463,108.97335 z"
+       id="path4452" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 14.203187,111.9262 C 9.8054011,112.06472 5.4056501,112.125 1.0057912,112.14766 C 1.3831692,112.95235 0.68419419,114.95254 1.8584152,114.87216 C 3.8990182,114.85371 5.9391901,114.80943 7.9794151,114.76831 C 7.9544201,117.54892 7.9294251,120.32951 7.9044301,123.11011 C 8.8967661,122.97907 10.40852,123.36613 11.093715,122.92874 C 11.130402,120.17168 11.167091,117.41463 11.203779,114.65758 C 13.52832,114.58376 15.852862,114.50994 18.177404,114.43612 C 17.843412,113.57888 18.643311,111.4654 17.253871,111.77752 C 16.236977,111.82708 15.220082,111.87664 14.203187,111.9262 z"
+       id="path4450" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 97.406691,123.58952 C 102.74315,123.58952 108.07959,123.58952 113.41604,123.58952 C 113.41604,120.32908 113.41604,117.06865 113.41604,113.80821 C 112.44126,113.94252 110.929,113.5477 110.26666,113.9896 C 110.13044,114.99443 110.83283,116.82487 109.16121,116.31813 C 106.29283,116.31813 103.42446,116.31813 100.55608,116.31813 C 100.32926,115.40249 101.21558,113.39099 99.634868,113.80821 C 98.642071,113.92479 96.866753,113.271 97.406691,114.8965 C 97.406691,117.79418 97.406691,120.69184 97.406691,123.58952 z"
+       id="path4448" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 78.427581,114.43612 C 76.189729,114.61972 73.6098,115.21216 72.346368,117.219 C 71.513446,118.76486 71.850564,120.87322 73.277451,121.97716 C 75.348552,123.61005 78.159297,123.76193 80.707917,123.76056 C 83.076447,123.70701 85.683571,123.4535 87.538291,121.85515 C 89.289707,120.39188 89.163317,117.36326 87.292701,116.04941 C 85.109461,114.44197 82.225779,114.33619 79.602733,114.3623 C 79.209965,114.35402 78.819232,114.41454 78.427581,114.43612 z"
+       id="path4446" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 50.88316,123.25733 C 56.394574,123.25733 61.905987,123.25733 67.4174,123.25733 C 67.143483,122.38699 68.088958,120.31619 66.68043,120.56285 C 62.501958,120.56285 58.323488,120.56285 54.145017,120.56285 C 54.145017,118.76654 54.145017,116.97022 54.145017,115.17391 C 53.122112,115.29775 51.597646,114.92782 50.88316,115.35529 C 50.88316,117.9893 50.88316,120.62331 50.88316,123.25733 z"
+       id="path4444" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 81.539467,117.01986 C 82.802735,117.10125 84.230106,117.20122 85.176251,118.12718 C 85.862951,118.97238 85.298271,120.19385 84.33302,120.52621 C 82.543735,121.32279 80.503551,121.19201 78.590593,121.09375 C 77.330811,120.92464 75.623754,120.6703 75.203217,119.27141 C 75.030568,118.05682 76.325,117.37766 77.369067,117.23424 C 78.730891,116.94045 80.152721,116.98061 81.539467,117.01986 z"
+       id="path4442" />
+    <path
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Malgun Gothic;-inkscape-font-specification:Malgun Gothic Bold"
+       d="M 110.26666,118.9757 C 110.38808,120.24331 110.44387,121.44631 108.79272,120.96887 C 106.04718,120.96887 103.30163,120.96887 100.55608,120.96887 C 100.43466,119.70126 100.37888,118.49826 102.03002,118.9757 C 104.77556,118.9757 107.52111,118.9757 110.26666,118.9757 z"
+       id="flowRoot4334" />
+    <path
+       style="opacity:1;fill:#448acf;fill-opacity:0.76078431;fill-rule:nonzero;display:inline"
+       d="M 72.999778,94.059245 L 70.336428,91.395895 L 75.655428,85.51821 C 84.592978,75.6419 90.173868,61.30548 90.173868,48.222607 C 90.173868,35.430219 84.435938,20.415019 76.034688,11.222714 L 71.283918,6.0246132 L 74.333718,3.1236092 L 77.383518,0.22260621 L 81.728958,5.2105272 C 87.710658,12.076628 91.878648,19.224685 94.951848,27.887683 C 97.199198,34.22269 98.972028,37.39583 99.038818,48.191795 C 99.124518,62.042668 95.943248,68.92929 89.947388,79.58868 C 86.799848,85.18433 77.676408,96.722605 76.399398,96.722605 C 75.994448,96.722605 74.464618,95.524095 72.999778,94.059245 z"
+       id="path3897" />
+  </g>
+</svg>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="enable-background:new"
+   version="1.1"
+   height="114.3434"
+   width="445.58719"
+   id="svg1325">
+  <title
+     id="title5657">Neapolitan Wikisource logo</title>
+  <metadata
+     id="metadata1330">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Neapolitan Wikisource logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ruthven</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1328">
+    <filter
+       id="filter4994"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend4996"
+         in2="BackgroundImage"
+         mode="lighten" />
+    </filter>
+  </defs>
+  <g
+     id="g2908"
+     transform="translate(28.95453,-458.03382)" />
+  <text
+     id="text4923"
+     y="114.3434"
+     x="214.77968"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-size:22.5px;line-height:1.25"
+       y="114.3434"
+       x="214.77968"
+       id="tspan4925"> </tspan></text>
+  <g
+     transform="translate(16.732639,-428.97221)"
+     style="display:none;filter:url(#filter4994)"
+     id="layer1">
+    <text
+       id="text4913"
+       y="511.12555"
+       x="193.06706"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="translate(12.221891,-29.061607)"><tspan
+         style="font-size:70px;line-height:1.25"
+         y="511.12555"
+         x="193.06706"
+         id="tspan4917"><tspan
+           id="tspan4921"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">W</tspan><tspan
+           id="tspan4919"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle">IKISOURCE</tspan></tspan></text>
+  </g>
+  <g
+     transform="translate(16.732639,-428.97221)"
+     id="layer2">
+    <g
+       id="text4913-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4994)">
+      <path
+         id="path5637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 99.044628,434.79271 q 0,0.42 -0.28,0.77 -0.245,0.35 -0.56,0.35 -2.59,0.245 -4.235,1.68 -1.645,1.4 -3.395,5.39 l -17.85,40.215 q -0.175,0.56 -0.98,0.56 -0.63,0 -0.98,-0.56 l -10.01,-20.93 -11.515,20.93 q -0.35,0.56 -0.98,0.56 -0.77,0 -1.015,-0.56 l -17.535,-40.215 q -1.645,-3.745 -3.465,-5.215 -1.82,-1.505 -5.075,-1.855 -0.28,0 -0.525,-0.28 -0.245,-0.315 -0.245,-0.7 0,-0.98 0.56,-0.98 2.345,0 4.9,0.21 2.38,0.21 4.48,0.21 2.135,0 5.04,-0.21 3.045,-0.21 5.39,-0.21 0.56,0 0.56,0.98 0,0.98 -0.35,0.98 -2.345,0.175 -3.71,1.19 -1.33,1.015 -1.33,2.66 0,0.84 0.56,2.1 l 14.49,32.725 8.225,-15.54 -7.665,-16.065 q -2.065,-4.305 -3.395,-5.53 -1.33,-1.26 -4.025,-1.54 -0.245,0 -0.49,-0.28 -0.21,-0.315 -0.21,-0.7 0,-0.98 0.49,-0.98 2.345,0 4.305,0.21 1.89,0.21 4.025,0.21 2.1,0 4.445,-0.21 2.415,-0.21 4.76,-0.21 0.56,0 0.56,0.98 0,0.98 -0.35,0.98 -4.69,0.315 -4.69,2.66 0,1.05 1.085,3.255 l 5.075,10.29 5.04,-9.415 q 1.05,-1.995 1.05,-3.36 0,-3.22 -4.69,-3.43 -0.42,0 -0.42,-0.98 0,-0.35 0.21,-0.665 0.21,-0.315 0.42,-0.315 1.68,0 4.13,0.21 2.345,0.21 3.85,0.21 1.085,0 3.185,-0.175 2.66,-0.245 4.445,-0.245 0.42,0 0.42,0.84 0,1.12 -0.77,1.12 -2.73,0.28 -4.41,1.505 -1.645,1.225 -4.13,5.565 l -6.72,12.425 9.1,18.55 13.44,-31.255 q 0.7,-1.715 0.7,-3.15 0,-3.43 -4.69,-3.64 -0.42,0 -0.42,-0.98 0,-0.98 0.63,-0.98 1.715,0 4.06,0.21 2.17,0.21 3.64,0.21 1.54,0 3.57,-0.21 2.1,-0.21 3.78,-0.21 0.49,0 0.49,0.84 z" />
+      <path
+         id="path5639"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 116.29963,481.81771 q 0,0.7 -0.4,0.7 -1.675,0 -3.975,-0.15 -2.2,-0.15 -3.725,-0.15 -1.525,0 -3.725,0.15 -2.325,0.15 -4.025,0.15 -0.4,0 -0.4,-0.7 0,-0.625 0.4,-0.675 3.025,-0.35 4.1,-1.125 1.1,-0.775 1.1,-3.1 v -23.525 q 0,-1.75 -0.45,-2.45 -0.425,-0.725 -1.525,-1.125 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.7,0 4.025,0.15 2.2,0.15 3.725,0.15 1.525,0 3.725,-0.15 2.3,-0.15 3.975,-0.15 0.4,0 0.4,0.7 0,0.7 -0.4,0.7 -2.1,0.25 -3.2,0.675 -1.1,0.4 -1.525,1.1 -0.425,0.7 -0.425,2.475 v 23.525 q 0,1.725 0.425,2.45 0.425,0.7 1.5,1.125 1.1,0.4 3.2,0.65 0.425,0.05 0.425,0.675 z" />
+      <path
+         id="path5641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 158.59494,481.81771 q 0,0.7 -0.4,0.7 -1.675,0 -4,-0.15 -2.225,-0.15 -3.75,-0.15 -1.475,0 -4.075,0.15 -2.725,0.15 -4.4,0.15 -0.4,0 -0.4,-0.7 0,-0.625 0.35,-0.675 3.375,-0.4 3.375,-1.625 0,-0.7 -1.1,-1.8 l -9.925,-10.1 q -0.8,-0.8 -1.4,-1.05 -0.575,-0.25 -1.6,-0.25 v 10.6 q 0,1.725 0.425,2.45 0.45,0.7 1.55,1.125 1.125,0.4 3.2,0.65 0.425,0.05 0.425,0.675 0,0.7 -0.4,0.7 -1.675,0 -4,-0.15 -2.225,-0.15 -3.75,-0.15 -1.5,0 -3.7,0.15 -2.325,0.15 -4,0.15 -0.4,0 -0.4,-0.7 0,-0.625 0.4,-0.675 3.025,-0.35 4.1,-1.125 1.1,-0.775 1.1,-3.1 v -23.525 q 0,-1.75 -0.45,-2.45 -0.425,-0.725 -1.525,-1.125 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.675,0 4,0.15 2.2,0.15 3.7,0.15 1.525,0 3.75,-0.15 2.325,-0.15 4,-0.15 0.4,0 0.4,0.7 0,0.7 -0.4,0.7 -2.125,0.25 -3.225,0.675 -1.1,0.4 -1.55,1.125 -0.425,0.7 -0.425,2.45 v 11.325 q 0.975,0 1.575,-0.25 0.6,-0.25 1.425,-1.05 l 10.975,-10.825 q 1.35,-1.275 1.35,-1.85 0,-0.675 -0.65,-1 -0.625,-0.35 -2.55,-0.6 -0.4,0 -0.4,-0.7 0,-0.7 0.45,-0.7 1.175,0 3.1,0.15 2.05,0.15 3.4,0.15 1.35,0 3,-0.175 1.375,-0.125 2.35,-0.125 0.35,0 0.35,0.7 0,0.7 -0.4,0.7 -2.4,0.3 -3.775,0.975 -1.375,0.675 -3.3,2.5 l -11.4,10.85 14.175,14.4 q 1.475,1.55 2.9,2.25 1.45,0.675 4.3,1.025 0.45,0.05 0.45,0.675 z" />
+      <path
+         id="path5643"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 177.82307,481.81771 q 0,0.7 -0.4,0.7 -1.675,0 -3.975,-0.15 -2.2,-0.15 -3.725,-0.15 -1.525,0 -3.725,0.15 -2.325,0.15 -4.025,0.15 -0.4,0 -0.4,-0.7 0,-0.625 0.4,-0.675 3.025,-0.35 4.1,-1.125 1.1,-0.775 1.1,-3.1 v -23.525 q 0,-1.75 -0.45,-2.45 -0.425,-0.725 -1.525,-1.125 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.7,0 4.025,0.15 2.2,0.15 3.725,0.15 1.525,0 3.725,-0.15 2.3,-0.15 3.975,-0.15 0.4,0 0.4,0.7 0,0.7 -0.4,0.7 -2.1,0.25 -3.2,0.675 -1.1,0.4 -1.525,1.1 -0.425,0.7 -0.425,2.475 v 23.525 q 0,1.725 0.425,2.45 0.425,0.7 1.5,1.125 1.1,0.4 3.2,0.65 0.425,0.05 0.425,0.675 z" />
+      <path
+         id="path5645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 204.26838,472.46771 q 0,4.975 -2.95,7.925 -2.95,2.925 -7.975,2.925 -2.225,0 -5.325,-0.8 -2.825,-0.75 -4.625,-0.75 -0.15,-4.25 -0.6,-8.5 0,-0.4 0.75,-0.4 0.525,0 0.65,0.4 1.35,4.65 3.45,6.55 2.1,1.9 5.9,1.9 3.025,0 4.675,-1.75 1.675,-1.75 1.675,-4.9 0,-2.025 -1.45,-3.75 -1.45,-1.75 -6.175,-4.5 -5.425,-3.125 -7.1,-5.3 -1.675,-2.175 -1.675,-4.825 0,-4.075 3,-6.875 3.025,-2.825 7.65,-2.825 1.75,0 4.025,0.475 2.125,0.425 3.675,0.425 0.3,4.4 0.8,7.75 0,0.4 -0.65,0.4 -0.7,0 -0.775,-0.4 -0.825,-3.75 -2.5,-5.4 -1.675,-1.65 -4.625,-1.65 -2.8,0 -4.45,1.65 -1.65,1.65 -1.65,4.45 0,1.775 1.375,3.4 1.4,1.6 6.025,4.3 5.475,3.2 7.175,5.35 1.7,2.15 1.7,4.725 z" />
+      <path
+         id="path5647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 245.209,465.31771 q 0,7.925 -5.1,12.975 -5.1,5.025 -13.325,5.025 -8.225,0 -13.325,-5.025 -5.075,-5.05 -5.075,-12.975 0,-7.95 5.125,-13.125 5.125,-5.2 13.275,-5.2 8.175,0 13.3,5.2 5.125,5.175 5.125,13.125 z m -5.5,0 q 0,-7.375 -3.575,-12.05 -3.55,-4.675 -9.35,-4.675 -5.825,0 -9.375,4.675 -3.525,4.675 -3.525,12.05 0,7.325 3.5,11.875 3.525,4.525 9.4,4.525 5.85,0 9.375,-4.525 3.55,-4.55 3.55,-11.875 z" />
+      <path
+         id="path5649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 285.9176,448.44271 q 0,0.7 -0.4,0.7 -3.15,0.4 -4.225,1.175 -1.075,0.75 -1.075,3.075 v 15.675 q 0,6.675 -3.225,10.475 -3.225,3.775 -9.1,3.775 -6.7,0 -10.45,-3.6 -3.75,-3.625 -3.75,-9.85 v -16.475 q 0,-1.725 -0.425,-2.425 -0.4,-0.725 -1.5,-1.15 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.675,0 3.975,0.15 2.2,0.15 3.725,0.15 1.525,0 3.75,-0.15 2.325,-0.15 4,-0.15 0.4,0 0.4,0.7 0,0.7 -0.4,0.7 -2.125,0.25 -3.225,0.675 -1.1,0.4 -1.55,1.125 -0.425,0.7 -0.425,2.45 v 15.775 q 0,6.15 2.325,9.025 2.325,2.875 7.575,2.875 9.875,0 9.875,-12.5 v -15.175 q 0,-2.325 -1.125,-3.1 -1.1,-0.8 -4.175,-1.15 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.15,0 3.025,0.15 1.925,0.15 3.125,0.15 1.2,0 3,-0.15 1.85,-0.15 3.1,-0.15 0.4,0 0.4,0.7 z" />
+      <path
+         id="path5651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 322.7301,481.81771 q 0,0.7 -0.4,0.7 -0.925,0 -3.025,-0.175 -1.525,-0.125 -2.025,-0.125 -0.725,0 -2.275,0.15 -1.55,0.15 -2.275,0.15 l -7.575,-12.35 q -1.6,-2.55 -2.6,-3.275 -0.975,-0.725 -3.95,-0.725 v 10.75 q 0,1.725 0.425,2.45 0.45,0.7 1.55,1.125 1.125,0.4 3.2,0.65 0.425,0.05 0.425,0.675 0,0.7 -0.4,0.7 -1.675,0 -4,-0.15 -2.225,-0.15 -3.75,-0.15 -1.525,0 -3.725,0.15 -2.3,0.15 -3.975,0.15 -0.4,0 -0.4,-0.7 0,-0.625 0.4,-0.675 2.075,-0.25 3.175,-0.65 1.1,-0.425 1.525,-1.125 0.45,-0.7 0.45,-2.45 v -23.525 q 0,-1.725 -0.425,-2.425 -0.4,-0.725 -1.5,-1.15 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 1.675,0 3.975,0.15 2.2,0.15 3.725,0.15 1.525,0 3.75,-0.15 2.325,-0.15 4,-0.15 5.575,0 8.625,2.375 3.05,2.35 3.05,6.625 0,2.7 -2.125,5.025 -2.1,2.3 -5.7,3.55 l 8.075,12.3 q 1,1.65 2.575,2.45 1.575,0.775 4.075,1.075 0.35,0.05 0.35,0.675 z m -12.75,-25.075 q 0,-7.3 -6.375,-7.3 -2.1,0 -3.2,0.35 -1.075,0.325 -1.45,1.05 -0.35,0.725 -0.35,2.55 v 11.125 q 1.45,0.2 3.65,0.2 4.025,0 5.875,-1.9 1.85,-1.9 1.85,-6.075 z" />
+      <path
+         id="path5653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 358.50119,473.26771 q -0.9,4 -1.75,8.5 -1.425,0 -5.175,0.675 -4.8,0.875 -7.1,0.875 -5.7,0 -10,-2.25 -4.3,-2.25 -6.7,-6.425 -2.4,-4.2 -2.4,-9.325 0,-5.05 2.525,-9.3 2.55,-4.275 7,-6.65 4.45,-2.375 10.025,-2.375 2.35,0 6.3,0.5 3.075,0.4 4.475,0.4 0.325,3.5 1.15,8.5 0,0.4 -0.8,0.4 -0.5,0 -0.6,-0.4 -0.9,-3.4 -3.875,-5.6 -2.975,-2.2 -6.85,-2.2 -5.875,0 -9.875,4.85 -3.975,4.85 -3.975,11.875 0,6.825 3.95,11.625 3.95,4.775 9.65,4.775 8.925,0 12.65,-8.45 0.175,-0.4 0.675,-0.4 0.7,0 0.7,0.4 z" />
+      <path
+         id="path5655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Hoefler Text';-inkscape-font-specification:'Hoefler Text, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         d="m 391.72228,474.26771 q -2.025,4.325 -3.3,8.25 -9.425,-0.3 -13.425,-0.3 -3.95,0 -13.4,0.3 -0.4,0 -0.4,-0.7 0,-0.625 0.4,-0.675 2.075,-0.25 3.175,-0.65 1.1,-0.425 1.525,-1.125 0.45,-0.7 0.45,-2.45 v -23.525 q 0,-1.725 -0.425,-2.425 -0.4,-0.725 -1.5,-1.15 -1.1,-0.425 -3.225,-0.675 -0.4,0 -0.4,-0.7 0,-0.7 0.4,-0.7 6.3,0.3 12.9,0.3 6.65,0 12.925,-0.3 0.575,3.875 1.675,7.65 0,0.5 -0.875,0.5 -0.425,0 -0.525,-0.35 -1.85,-5.9 -7.9,-5.9 h -5.05 q -2.9,0 -2.9,3 v 11.125 h 6.3 q 2.5,0 3.375,-1.15 0.9,-1.15 1.25,-4.075 0,-0.4 0.7,-0.4 0.7,0 0.7,0.4 0,1.25 -0.15,3.15 -0.15,1.825 -0.15,2.975 0,1.175 0.15,3 0.15,1.95 0.15,3.2 0,0.4 -0.7,0.4 -0.7,0 -0.7,-0.4 -0.375,-3.05 -1.325,-4.275 -0.925,-1.225 -3.3,-1.225 h -6.3 v 12.3 q 0,2.95 2.9,2.95 h 5.45 q 2.975,0 5.9,-1.925 2.925,-1.95 4.3,-4.85 0.1,-0.225 0.425,-0.225 0.35,0 0.625,0.2 0.275,0.175 0.275,0.45 z" />
+    </g>
+  </g>
+</svg>

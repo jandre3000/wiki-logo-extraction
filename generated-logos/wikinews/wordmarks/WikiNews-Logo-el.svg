@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1056.274" height="185.759" version="1.0">
+ <defs>
+  <linearGradient id="WikiNews-Logo-el_svg__a">
+   <stop offset="0" stop-color="#fff" stop-opacity=".217"/>
+   <stop offset=".5" stop-color="#fff" stop-opacity=".571"/>
+   <stop offset="1" stop-color="#fff" stop-opacity=".217"/>
+  </linearGradient>
+ </defs>
+ <g font-family="Bitstream Vera Sans" font-weight="400">
+  <text style="line-height:0%;text-align:start" x="339.53" y="554.298" fill="#8c8c8c" transform="matrix(2.10917 0 0 2.10917 -206.958 -983.35)">
+   <tspan style="line-height:1.25;-inkscape-font-specification:'Arial Bold'" x="339.53" y="554.298" font-family="Arial" font-size="123" font-weight="700">ΝΕΑ</tspan>
+  </text>
+  <text x="89.114" y="554.272" fill="#595959" transform="matrix(2.10917 0 0 2.10917 -206.958 -983.35)" style="line-height:0%;text-align:start">
+   <tspan style="line-height:1.25;-inkscape-font-specification:'Arial Bold'" x="89.114" y="554.272" font-family="Arial" font-size="123" font-weight="700">ΒΙΚΙ</tspan>
+  </text>
+ </g>
+</svg>

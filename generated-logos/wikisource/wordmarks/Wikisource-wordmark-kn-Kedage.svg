@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   height="72.802734"
+   width="401.36719"
+   id="svg1325">
+  <metadata
+     id="metadata1330">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1328">
+    <linearGradient
+       id="linearGradient2719">
+      <stop
+         id="stop2721"
+         offset="0"
+         style="stop-color:#c8c8c8;stop-opacity:1;" />
+      <stop
+         id="stop2723"
+         offset="1"
+         style="stop-color:#5a5a5a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2725">
+      <stop
+         id="stop2727"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.23517746"
+         id="stop2729" />
+      <stop
+         style="stop-color:#eaeaea;stop-opacity:1;"
+         offset="0.33212763"
+         id="stop2731" />
+      <stop
+         style="stop-color:#c9c9c9;stop-opacity:1;"
+         offset="0.67733651"
+         id="stop2733" />
+      <stop
+         style="stop-color:#c9c9c9;stop-opacity:1;"
+         offset="0.70174891"
+         id="stop2735" />
+      <stop
+         id="stop2737"
+         offset="0.88718456"
+         style="stop-color:#919191;stop-opacity:1;" />
+      <stop
+         style="stop-color:#636363;stop-opacity:1;"
+         offset="1"
+         id="stop2739" />
+    </linearGradient>
+    <radialGradient
+       r="58.789555"
+       fy="53.200474"
+       fx="28.507341"
+       cy="53.200474"
+       cx="28.507341"
+       gradientTransform="matrix(-0.0213845,1.8805954,-2.0825927,-0.02368066,141.64261,-8.0321785)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient2741"
+       xlink:href="#linearGradient22714" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01133842,1.1681586,-1.0210899,-0.00991093,172.24669,-42.1967)"
+       r="71.078377"
+       fy="103.19434"
+       fx="74.607216"
+       cy="103.19434"
+       cx="74.607216"
+       id="radialGradient2745"
+       xlink:href="#linearGradient3414" />
+    <radialGradient
+       xlink:href="#linearGradient22714"
+       id="radialGradient2614"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.05135655,1.7043346,-1.7358385,-0.05230537,83.393731,3.9516267)"
+       cx="24.557663"
+       cy="56.273899"
+       fx="24.557663"
+       fy="56.273899"
+       r="58.789555" />
+    <radialGradient
+       xlink:href="#linearGradient22714"
+       id="radialGradient2569"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.05135655,1.7043346,-1.7358385,-0.05230537,83.393731,3.9516267)"
+       cx="24.557663"
+       cy="56.273899"
+       fx="24.557663"
+       fy="56.273899"
+       r="58.789555" />
+    <radialGradient
+       xlink:href="#linearGradient3414"
+       id="radialGradient2528"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01322417,1.3624414,-1.1909129,-0.01155927,193.05543,-45.325481)"
+       cx="74.607216"
+       cy="103.19434"
+       fx="74.607216"
+       fy="103.19434"
+       r="71.078377" />
+    <radialGradient
+       xlink:href="#linearGradient22714"
+       id="radialGradient2526"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.05989794,1.9877917,-2.0245352,-0.06100456,144.46834,2.0004126)"
+       cx="24.557663"
+       cy="56.273899"
+       fx="24.557663"
+       fy="56.273899"
+       r="58.789555" />
+    <radialGradient
+       xlink:href="#linearGradient3414"
+       id="radialGradient2586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.01322417,1.3624414,-1.1909129,-0.01155927,193.05543,-45.325481)"
+       cx="74.607216"
+       cy="103.19434"
+       fx="74.607216"
+       fy="103.19434"
+       r="71.078377" />
+    <radialGradient
+       xlink:href="#linearGradient22714"
+       id="radialGradient2584"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.05989794,1.9877917,-2.0245352,-0.06100456,144.46834,2.0004126)"
+       cx="24.557663"
+       cy="56.273899"
+       fx="24.557663"
+       fy="56.273899"
+       r="58.789555" />
+    <linearGradient
+       id="linearGradient22714">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3358" />
+      <stop
+         id="stop3422"
+         offset="0.23517746"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop2552"
+         offset="0.33212763"
+         style="stop-color:#eaeaea;stop-opacity:1;" />
+      <stop
+         id="stop2548"
+         offset="0.67733651"
+         style="stop-color:#c9c9c9;stop-opacity:1;" />
+      <stop
+         id="stop3360"
+         offset="0.70174891"
+         style="stop-color:#c9c9c9;stop-opacity:1;" />
+      <stop
+         style="stop-color:#919191;stop-opacity:1;"
+         offset="0.88718456"
+         id="stop2550" />
+      <stop
+         id="stop5321"
+         offset="1"
+         style="stop-color:#636363;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3414">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop3416" />
+      <stop
+         style="stop-color:#5a5a5a;stop-opacity:1;"
+         offset="1"
+         id="stop3418" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-0.55169916,-440.00549)"
+     id="g3126">
+    <text
+       id="text3402"
+       y="517.39807"
+       x="-4.3311133"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:1.25;font-family:Kedage;-inkscape-font-specification:Kedage"
+         y="517.39807"
+         x="-4.3311133"
+         id="tspan3404">ವಿಕಿಸೋರ್ಸ್</tspan></text>
+  </g>
+</svg>

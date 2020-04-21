@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="358.51608"
+   height="349.18594"
+   id="svg2728"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Wikibooks-logo-et.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2399">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="813"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.1675"
+     inkscape:cx="171.93026"
+     inkscape:cy="124.40981"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:current-layer="svg2728"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs2731">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 200 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="400 : 200 : 1"
+       inkscape:persp3d-origin="200 : 133.33333 : 1"
+       id="perspective2401" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-17.619795,-19.6875)" />
+  <g
+     id="g3299"
+     transform="translate(-17.640197,-16.0625)">
+    <path
+       d="m 191.65664,115.97593 c 5.27687,66.02591 16.7973,129.9439 51.19815,191.4892 l 13.00988,0.0971 82.29114,-73.41929 -78.43513,-198.199613 -56.54009,54.008439 -11.52395,26.024184 z"
+       style="fill:#fdfcf8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3297"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 125.84082,116.04509 c 5.27687,66.02591 18.77829,130.78651 53.17914,192.33181 l 20.33475,0.18272 61.96822,-77.71837 -67.41807,-194.828778 -56.54009,54.008439 -11.52395,26.024179 z"
+       style="fill:#f4eed7;fill-rule:evenodd;stroke:none"
+       id="path3214"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 50.218883,114.63177 c 5.376652,69.28374 27.01509,131.34001 52.459127,191.70491 l 26.80214,-0.33096 70.40072,-80.03768 L 118.28293,34.599156 61.742841,88.607595 50.218883,114.63177 z"
+       style="fill:#e9ddaf;fill-rule:evenodd;stroke:none"
+       id="path2238"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(1.82723,0)"
+       id="layer2">
+      <path
+         d="m 261.5,16.5 c -27.18692,26.301966 -54.0625,52.375 -54.0625,52.375 0,0 9.65625,19.65625 9.65625,19.65625 13.09357,-12.981225 26.26128,-24.397339 38.8125,-37.09375 26.43326,58.0352 44.44408,104.81167 66.59843,166.64698 7.25271,20.08798 5.77391,20.98678 -11.5625,31.84375 -27.85476,13.85172 -36.67281,22.93724 -69.87108,58.25927 l 22.71875,0 c 27.75344,-25.09151 38.05553,-33.94669 72.80858,-52.25927 12.29389,-7.09788 13.97957,-16.05857 8.9375,-30 C 329.27475,180.73146 294.04485,83.322614 261.5,16.5 z"
+         style="fill:#5f96d3;fill-opacity:1"
+         id="path3272"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 190.625,17.125 c -19.88757,13.424352 -35.22867,32.744448 -52.53125,49.3125 0,0 7.09375,22.625 7.09375,22.625 13.54117,-10.670666 25.32557,-23.536457 37.5,-35.71875 l 65.65625,164.6875 c 3.78574,11.15069 -2.17642,21.0724 -14.15625,31.875 -14.34924,11.53271 -43.89257,38.42056 -57.28125,58.90625 l 20.375,0 c 21.38465,-21.96593 25.2452,-24.94746 49.59375,-46.03125 16.34634,-16.67844 31.114,-25.22072 23.40625,-46.59375 L 190.625,17.125 z"
+         style="fill:#2a62a1;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3138"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 123.5,16.0625 c -5.30135,1.779198 -9.71211,5.198015 -13.84375,8.8125 -56.088558,53.972012 -58.34375,56.25 -58.34375,56.25 -2.951465,2.742742 -3.197984,6.75235 -3.15625,10.78125 l 0.235404,22.72552 c 0,0 25.904224,-25.181716 64.577096,-62.41302 20.81842,54.23768 42.54552,108.18649 63.9375,162.21875 2.9295,8.16333 -4.08223,14.8534 -12.96875,23.78125 -12.27355,11.97358 -37.94466,36.62136 -64.21875,69.53125 l 26.34375,0 c 0,0 63.31249,-69.4375 63.3125,-69.4375 6.01928,-8.27793 13.50319,-16.3712 10.34375,-23.875 0,0 -76.21875,-198.374999 -76.21875,-198.375 z"
+         style="fill:#15304f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path3136"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:54.37613297px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+     x="180.54576"
+     y="348.41595"
+     id="text2997"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2999"
+       x="180.54576"
+       y="348.41595"><tspan
+         style="fill:#0b2645;fill-opacity:1"
+         id="tspan3769">VIKI</tspan><tspan
+         style="fill:#0a4e98;fill-opacity:1"
+         id="tspan3783">ÕPIKUD</tspan></tspan></text>
+</svg>
