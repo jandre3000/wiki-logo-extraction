@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="641">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="641" height="165">
 	<defs>
 		<linearGradient id="a">
 			<stop offset="0" stop-color="#585858"/>
@@ -10,10 +10,10 @@
 		<linearGradient id="f" x1="896.131" x2="1248.162" y1="819.035" y2="819.035" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
 		<linearGradient id="g" x1="896.131" x2="1248.162" y1="819.035" y2="819.035" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
 		<linearGradient id="h" x1="896.131" x2="1248.162" y1="819.035" y2="819.035" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
-		<filter id="d" width="641">
+		<filter id="d" width="641" height="165" x="-.022" y="-.046" color-interpolation-filters="sRGB">
 			<feGaussianBlur stdDeviation="3.251"/>
 		</filter>
-		<filter id="b" width="641">
+		<filter id="b" width="641" height="165" x="-.024" y="-.069" color-interpolation-filters="sRGB">
 			<feGaussianBlur stdDeviation="3.679"/>
 		</filter>
 	</defs>

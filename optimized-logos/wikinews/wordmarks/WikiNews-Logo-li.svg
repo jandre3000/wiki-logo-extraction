@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="152">
 	<defs>
-		<filter id="a" width="860">
+		<filter id="a" width="860" height="152" x="-.034" y="-.251" color-interpolation-filters="sRGB">
 			<feGaussianBlur stdDeviation="11.356"/>
 		</filter>
 	</defs>

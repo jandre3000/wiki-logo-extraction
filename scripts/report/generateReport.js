@@ -37,8 +37,8 @@ for ( project in tableData) {
 
 	for ( lang in tableData[project] ) {
 		const original = glob.sync( `./original-logos/${project}/*-${lang}.svg` )[0];
-		const wordmark = glob.sync( `./generated-logos/${project}/wordmarks/*-${lang}.svg` )[0];
-		const tagline = glob.sync( `./generated-logos/${project}/taglines/*-${lang}.svg` )[0];
+		const wordmark = glob.sync( `./optimized-logos/${project}/wordmarks/*-${lang}.svg` )[0];
+		const tagline = glob.sync( `./optimized-logos/${project}/taglines/*-${lang}.svg` )[0];
 		if ( project === 'wikiversity' ) {
 			console.log( original, lang )
 		}

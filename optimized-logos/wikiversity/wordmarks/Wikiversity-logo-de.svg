@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="998">
+<svg xmlns="http://www.w3.org/2000/svg" width="998" height="1045" version="1.0">
 	<g transform="translate(-385.726 -624.789)">
-		<rect width="998"/>
+		<rect width="998" height="1045" x="351.283" y="-331.831" fill="#f9f9f9" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.338" rx="4.991" ry="3.476"/>
 		<path fill="#069" fill-rule="evenodd" d="M385.97-269.843c.006 6.539-5.31 11.843-11.87 11.843s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>
 		<path fill="#0080ce" fill-rule="evenodd" d="M385.97-235.66c.006 6.538-5.31 11.842-11.87 11.842s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>
 		<path fill="#696969" fill-rule="evenodd" d="M385.637-200.571c.006 6.539-5.31 11.843-11.87 11.843s-11.877-5.304-11.87-11.843c-.006-6.539 5.31-11.843 11.87-11.843s11.876 5.304 11.87 11.843z"/>

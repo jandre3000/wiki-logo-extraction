@@ -22,7 +22,7 @@ for generatedLogoFile in generated-logos/**/**/*.svg; do
 	roundedWidth=$(round $canvasWidth 0)
 	roundedHeight=$(round $canvasHeight 0)
 
-	resizedSVG=$(sed -e "s,width=\".*\",width=\"$roundedWidth\"," -e "s,height=\".*\",height=\"$roundedHeight\"," -e "s,viewBox=\".*\",viewBox=\"0 0 $roundedWidth $roundedHeight\"," $generatedLogoFile)
+	resizedSVG=$(sed -e "s,width=\"[^\"]*\",width=\"$roundedWidth\","  -e "s,height=\"[^\"]*\",height=\"$roundedHeight\"," -e "s,viewBox=\"[^\"]*\",viewBox=\"0 0 $roundedWidth $roundedHeight\"," $generatedLogoFile)
 
 	echo $resizedSVG | ./node_modules/.bin/svgo --config=.svgo.yml --input=- --output="$outputFile"
 done
