@@ -37,11 +37,9 @@ for ( project in tableData) {
 
 	for ( lang in tableData[project] ) {
 		const original = glob.sync( `./original-logos/${project}/*-${lang}.svg` )[0];
-		const wordmark = glob.sync( `./optimized-logos/${project}/wordmarks/*-${lang}.svg` )[0];
-		const tagline = glob.sync( `./optimized-logos/${project}/taglines/*-${lang}.svg` )[0];
-		if ( project === 'wikiversity' ) {
-			console.log( original, lang )
-		}
+		const wordmark = glob.sync( `./optimized-logos/${ (project === "wiki" ? "wikipedia" : project) }-wordmark-${lang}.svg` )[0];
+		const tagline = glob.sync( `./optimized-logos/${ (project === "wiki" ? "wikipedia" : project) }-tagline-${lang}.svg` )[0];
+
 		tableData[project][lang]['original'] = original
 		tableData[project][lang]['wordmark'] = wordmark
 		tableData[project][lang]['tagline'] = tagline
@@ -59,4 +57,4 @@ for ( project in tableData) {
 
 const templateOutput = template( tableData );
 
-fs.writeFileSync('./report.html', templateOutput, 'utf8' )
+fs.writeFileSync('./index.html', templateOutput, 'utf8' )

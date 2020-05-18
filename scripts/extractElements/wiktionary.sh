@@ -38,7 +38,7 @@ for logoFile in ./original-logos/wiktionary/*.svg; do
 	wordmarkId=`echo $wordmarkLine | grep -o 'id="[^"]*'`
 	wordmarkId=${wordmarkId/'id="'/}
 
-	wordmarkFilename=`basename $logoFile |  sed 's/\([A-Z]\)/-\1/g;s/^-//' |  tr '[:upper:]' '[:lower:]'`
+	wordmarkFilename=`basename $logoFile |  sed -e 's/\([A-Z]\)/-\1/g;s/^-//' -e 's,logo,wordmark,' |  tr '[:upper:]' '[:lower:]'`
 	wordmarkFilePath="./generated-logos/wiktionary/wordmarks/$wordmarkFilename"
 
 	if [ $wordmarkId ] && [[ ! -f "$wordmarkFilePath" ]]; then
@@ -49,7 +49,7 @@ for logoFile in ./original-logos/wiktionary/*.svg; do
 	taglineId=`echo $taglineLine | grep -o 'id="[^"]*'`
 	taglineId=${taglineId/'id="'/}
 
-	taglineFilename=`basename $logoFile |  sed 's/\([A-Z]\)/-\1/g;s/^-//' |  tr '[:upper:]' '[:lower:]'`
+	taglineFilename=`basename $logoFile |  sed -e 's/\([A-Z]\)/-\1/g;s/^-//' -e 's,logo,tagline,' |  tr '[:upper:]' '[:lower:]'`
 	taglineFilePath="./generated-logos/wiktionary/taglines/$taglineFilename"
 
 	if [ $taglineId ] && [[ ! -f "$taglineFilePath" ]]; then

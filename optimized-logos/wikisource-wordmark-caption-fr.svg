@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg1325" width="454" height="107" version="1.0">
+	<defs id="defs1328">
+		<radialGradient id="radialGradient2741" cx="28.507" cy="53.2" r="58.79" fx="28.507" fy="53.2" gradientTransform="matrix(-.02138 1.8806 -2.0826 -.02368 141.643 -8.032)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22714"/>
+		<radialGradient id="radialGradient2586" cx="74.607" cy="103.194" r="71.078" fx="74.607" fy="103.194" gradientTransform="matrix(-.01322 1.36244 -1.19091 -.01156 193.055 -45.325)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3414"/>
+		<radialGradient id="radialGradient2745" cx="74.607" cy="103.194" r="71.078" fx="74.607" fy="103.194" gradientTransform="matrix(-.01134 1.16816 -1.02109 -.00991 172.247 -42.197)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3414"/>
+		<radialGradient id="radialGradient2614" cx="24.558" cy="56.274" r="58.79" fx="24.558" fy="56.274" gradientTransform="matrix(-.05136 1.70433 -1.73584 -.0523 83.394 3.952)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22714"/>
+		<radialGradient id="radialGradient2569" cx="24.558" cy="56.274" r="58.79" fx="24.558" fy="56.274" gradientTransform="matrix(-.05136 1.70433 -1.73584 -.0523 83.394 3.952)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22714"/>
+		<radialGradient id="radialGradient2526" cx="24.558" cy="56.274" r="58.79" fx="24.558" fy="56.274" gradientTransform="matrix(-.0599 1.9878 -2.02454 -.061 144.468 2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22714"/>
+		<radialGradient id="radialGradient2528" cx="74.607" cy="103.194" r="71.078" fx="74.607" fy="103.194" gradientTransform="matrix(-.01322 1.36244 -1.19091 -.01156 193.055 -45.325)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3414"/>
+		<radialGradient id="radialGradient2584" cx="24.558" cy="56.274" r="58.79" fx="24.558" fy="56.274" gradientTransform="matrix(-.0599 1.9878 -2.02454 -.061 144.468 2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient22714"/>
+		<linearGradient id="linearGradient2725">
+			<stop id="stop2727" offset="0" stop-color="#fff" stop-opacity="1"/>
+			<stop id="stop2729" offset=".235" stop-color="#fff" stop-opacity="1"/>
+			<stop id="stop2731" offset=".332" stop-color="#eaeaea" stop-opacity="1"/>
+			<stop id="stop2733" offset=".677" stop-color="#c9c9c9" stop-opacity="1"/>
+			<stop id="stop2735" offset=".702" stop-color="#c9c9c9" stop-opacity="1"/>
+			<stop id="stop2737" offset=".887" stop-color="#919191" stop-opacity="1"/>
+			<stop id="stop2739" offset="1" stop-color="#636363" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient2719">
+			<stop id="stop2721" offset="0" stop-color="#c8c8c8" stop-opacity="1"/>
+			<stop id="stop2723" offset="1" stop-color="#5a5a5a" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient22714">
+			<stop id="stop3358" offset="0" stop-color="#fff" stop-opacity="1"/>
+			<stop id="stop3422" offset=".235" stop-color="#fff" stop-opacity="1"/>
+			<stop id="stop2552" offset=".332" stop-color="#eaeaea" stop-opacity="1"/>
+			<stop id="stop2548" offset=".677" stop-color="#c9c9c9" stop-opacity="1"/>
+			<stop id="stop3360" offset=".702" stop-color="#c9c9c9" stop-opacity="1"/>
+			<stop id="stop2550" offset=".887" stop-color="#919191" stop-opacity="1"/>
+			<stop id="stop5321" offset="1" stop-color="#636363" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="linearGradient3414">
+			<stop id="stop3416" offset="0" stop-color="#c8c8c8" stop-opacity="1"/>
+			<stop id="stop3418" offset="1" stop-color="#5a5a5a" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<text id="text2882" x="-1.407" y="88.147" fill="#000" fill-opacity="1" stroke="none" font-family="Linux Libertine" font-stretch="normal" font-style="italic" font-variant="normal" font-weight="400" text-anchor="start" transform="scale(.92533 1.0807)" writing-mode="lr-tb" xml:space="preserve" style="line-height:0%;-inkscape-font-specification:'Bitstream Charter Italic';text-align:start">
+		<tspan id="tspan2884" x="-1.407" y="88.147" font-size="49.686" font-style="italic" style="line-height:1.25;-inkscape-font-specification:'Bitstream Charter Italic'">la bibliothèque libre</tspan>
+	</text>
+	<text id="text2878" x="79.081" y="51.319" fill="#000" fill-opacity="1" stroke="none" font-family="Linux Libertine" font-stretch="normal" font-style="italic" font-variant="normal" font-weight="400" text-anchor="start" transform="scale(1.0238 .97675)" writing-mode="lr-tb" xml:space="preserve" style="line-height:0%;-inkscape-font-specification:'Bitstream Charter Italic';text-align:start">
+		<tspan style="line-height:1.25;-inkscape-font-specification:'Bitstream Charter'" id="tspan2880" x="79.081" y="51.319" font-size="56.509" font-style="normal">IKISOURCE</tspan>
+	</text>
+	<style id="style3" type="text/css"/>
+	<path font-size="121.802" style="-inkscape-font-specification:'Linux Libertine C'" id="path2834" fill="#000" fill-opacity="1" stroke="none" d="M2.56 0l-.15.148v1.456c0 .4.194.611.604.611 1.944.2 3.258.599 3.948 1.224.716.6 1.41 1.794 2.05 3.545l20.477 41.86c.435 1.2 1.023 1.814 1.79 1.814.768 0 1.41-.614 1.921-1.814l8.286-16.795 8.22 16.795c.435 1.2 1.046 1.814 1.813 1.814.767 0 1.387-.614 1.899-1.814L73.894 7.32c.64-1.626 1.449-2.866 2.396-3.692.946-.85 2.388-1.313 4.358-1.414.435 0 .669-.211.669-.611V.148L81.144 0l-7.25.148C71.848.148 68.973.1 65.264 0l-.151.148v1.456c0 .4.216.611.625.611l1.252.064c1.586.075 2.687.43 3.301 1.055.64.6.688 1.599.151 2.975L53.655 39.96h-.302l-8.07-15.613L53.677 7.32c.64-1.626 1.427-2.866 2.373-3.692.947-.85 2.41-1.313 4.38-1.414.435 0 .648-.211.648-.611V.148L60.927 0l-7.25.148C51.63.148 48.755.1 45.046 0l-.151.148v1.456c0 .4.195.611.604.611l1.273.064c1.586.075 2.687.43 3.301 1.055.64.6.689 1.599.151 2.975L43.212 20.36 35.66 5.781c-.435-1.15-.435-1.938 0-2.363.46-.45 1.632-.805 3.474-1.055l1.338-.148c.409-.075.604-.286.604-.611V.148L40.925 0l-8.933.148C29.945.148 26.872.1 22.778 0l-.15.148v1.456c0 .4.194.611.603.611 1.945.2 3.258.599 3.949 1.224.716.6 1.41 1.794 2.05 3.545l10.227 20.909-6.02 12.068h-.302L15.442 5.781c-.435-1.15-.435-1.938 0-2.363.46-.45 1.61-.805 3.452-1.055l1.36-.148c.409-.075.604-.286.604-.611V.148L20.707 0l-8.933.148C9.727.148 6.654.1 2.56 0z" font-family="Linux Libertine C" font-stretch="normal" font-style="normal" font-variant="normal" font-weight="400"/>
+</svg>
